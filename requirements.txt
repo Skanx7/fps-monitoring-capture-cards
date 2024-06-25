@@ -1,0 +1,5 @@
+av
+numpy
+keyboard
+PyQt5
+opencv-python
