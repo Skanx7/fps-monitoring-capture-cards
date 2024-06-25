@@ -39,7 +39,7 @@ If the device_selector.py didn't work:
 - Device selector:
 <img width="402" alt="image" src="https://github.com/Skanx7/live-fps-monitoring-capture-cards/assets/147698559/c8027266-28ba-438a-acfd-49bdddba6636">
 
-
+-Overlay:
 ![448886881_494641542944506_2243017613757868914_n](https://github.com/Skanx7/fps-monitoring-capture-cards/assets/147698559/653ec938-5c3e-46ca-8baa-452b2049e034)
 ![448860341_494630702945590_5966649950157780015_n](https://github.com/Skanx7/fps-monitoring-capture-cards/assets/147698559/f83d01f7-4641-4ebc-b017-4de59ec1e602)
 ![448820290_494624549612872_1234103738682547222_n](https://github.com/Skanx7/fps-monitoring-capture-cards/assets/147698559/1e306d17-5e0d-41f2-bf79-d2d817e6179f)
