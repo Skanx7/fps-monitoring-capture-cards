@@ -15,7 +15,7 @@ Current limitations:
 - Will be displayed on the PC as well
 - Will not give you the rendering resolution of the game (if a game run at 1440p or 1800p but upscales it to 2160p you will see the resolution of 2160p, did not check into that yet)
 
-Tested with an El Gato 4K 60 Pro MK.2, can't guarantee compatibility with non PCIE capture cards.
+Tested with an El Gato 4K 60 Pro MK.2, can't guarantee compatibility with non PCIe capture cards.
 
 # IMPORTANT READ
 Requirements:
