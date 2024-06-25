@@ -26,7 +26,7 @@ Requirements:
 - Run the main.py an overlay will appear
 - You can then add the overlay to OBS by adding a Window Capture with the overlay window
 
-If the device_selector.py didnd't work, just do this command "ffmpeg -list_devices true -f dshow -i dummy" and find the name of the device between the " " and in the monitoring.py file replace the input_device value with this:
+If the device_selector.py didn't work, just do this command "ffmpeg -list_devices true -f dshow -i dummy" and find the name of the device between the " " and in the monitoring.py file replace the input_device value with this:
 "video="+ "Insert the device name of your capture card that you found with the command"
 
 
