@@ -1,4 +1,4 @@
-# fps-monitoring-capture-cards
+# live-fps-monitoring-capture-cards
 Stream-compatible external overlay that will display FPS metrics and the resolution.
 
 Currently displays:
