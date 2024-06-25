@@ -13,6 +13,7 @@ It also comes with a device selector to choose which capture card to use.
 Current limitations:
 - Will not detect duplicate frames for games that fake a higher framerate (typically occurs on some fidelity modes with locked framerates)
 - Will be displayed on the PC as well
+- Will not give you the rendering resolution of the game (if a game run at 1440p or 1800p but upscales it to 2160p you will see the resolution of 2160p, did not check into that yet)
 
 Tested with an El Gato 4K 60 Pro MK.2, can't guarantee compatibility with non PCIE capture cards.
 
